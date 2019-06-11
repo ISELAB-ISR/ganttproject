@@ -1,3 +1,8 @@
+->RefactoringNumber->87913<-ExtractSuperClass(net.sourceforge.ganttproject.action.project.ProjectMenu;Class_2;[myExportFileAction|myOpenURLAction|mySaveProjectAction|mySaveProjectAsAction];[getExitAction|getProjectSettingsAction])
+->RefactoringNumber->87916<-ExtractSuperClass(net.sourceforge.ganttproject.action.project.ProjectMenu;Class_4;[myExitAction|myImportFileAction];[actionPerformed|getImportFileAction|getNewProjectAction|getPrintAction|getSaveURLAction])
+->RefactoringNumber->87921<-ExtractSuperClass(net.sourceforge.ganttproject.action.project.ProjectMenu;Class_7;[];[getExportFileAction|getOpenURLAction])
+->RefactoringNumber->87923<-ExtractSuperClass(net.sourceforge.ganttproject.action.project.ProjectMenu;Class_9;[];[])
+<-endRefactoring marker->
 /*
  * Created on 26.09.2005
  */

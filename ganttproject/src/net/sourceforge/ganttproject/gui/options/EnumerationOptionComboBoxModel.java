@@ -1,3 +1,5 @@
+->RefactoringNumber->87911<-DecreaseFieldSecurity(net.sourceforge.ganttproject.gui.options.EnumerationOptionComboBoxModel.Item;;[myID];[])
+<-endRefactoring marker->
 /*
  * Created on 02.04.2005
  */

@@ -1,3 +1,7 @@
+->RefactoringNumber->87920<-PullUpMethod(net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData.PointVector.WestPointVector.EastPointVector;net.sourceforge.ganttproject.chart.PointVector;[];[isVisible])
+->RefactoringNumber->87939<-MoveField(net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData.PointVector;net.sourceforge.ganttproject.GPTreeTableBase;[myPoint];[])
+->RefactoringNumber->87942<-IncreaseFieldSecurity(net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData;;[myDependantVector];[])
+<-endRefactoring marker->
 /* LICENSE: GPL2
 Copyright (C) 2010 Dmitry Barashev
 

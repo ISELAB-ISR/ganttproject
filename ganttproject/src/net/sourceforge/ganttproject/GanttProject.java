@@ -1,3 +1,5 @@
+->RefactoringNumber->87927<-ExtractSubClass(net.sourceforge.ganttproject.GanttProject.TaskManagerConfigImpl;Class_13;[ROLE_MANAGER_ID|myParserFactory|myQuitEntered|myQuitEntered];[actionPerformed0|changeWorkingDirectory|componentHidden|componentResized|componentShown|createNewItemText|getBaselines|getCalendar|getDefaultColorOption|getDescription|getGanttDividerLocation|getI18n|getNotificationManager|getProjectDocumentURL|getProjectName|getTaskContainment|getTimeUnitStack|getWebLink|getXslDir|getXslFo|getZoomActionSet|isModified|keyReleased|keyTyped|newProject|printProject|refreshProjectInformation|run6|saveAsProject|saveProject|setDocument|setGanttDividerLocation|setWebLink|usage])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool.
 Copyright (C) 2002-2010 Alexandre Thomas, Dmitry Barashev

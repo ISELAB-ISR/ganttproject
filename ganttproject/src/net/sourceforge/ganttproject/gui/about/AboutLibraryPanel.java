@@ -1,3 +1,5 @@
+->RefactoringNumber->87938<-MoveField(net.sourceforge.ganttproject.GPTreeTableBase.DateCellEditor;net.sourceforge.ganttproject.gui.about.AboutLibraryPanel.LibraryInfo;[myDate];[])
+<-endRefactoring marker->
 /***************************************************************************
  AboutLibraryPanel.java 
  ------------------------------------------

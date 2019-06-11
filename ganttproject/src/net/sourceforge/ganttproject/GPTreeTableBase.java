@@ -1,3 +1,8 @@
+->RefactoringNumber->87919<-ExtractSuperClass(net.sourceforge.ganttproject.GPTreeTableBase;Class_6;[];[getScrollPane|parseDate|processKeyBinding])
+->RefactoringNumber->87926<-ExtractSuperClass(net.sourceforge.ganttproject.GPTreeTableBase;Class_12;[];[getProject])
+->RefactoringNumber->87938<-MoveField(net.sourceforge.ganttproject.GPTreeTableBase.DateCellEditor;net.sourceforge.ganttproject.gui.about.AboutLibraryPanel.LibraryInfo;[myDate];[])
+->RefactoringNumber->87939<-MoveField(net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData.PointVector;net.sourceforge.ganttproject.GPTreeTableBase;[myPoint];[])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject;
 
 import java.awt.BorderLayout;

@@ -1,3 +1,5 @@
+->RefactoringNumber->87917<-PullUpMethod(net.sourceforge.ganttproject.UIFacadeImpl.MyDialog.Commiter.ProxyOkAction.LafOption;net.sourceforge.ganttproject.gui.options.model.DefaultEnumerationOption;[];[getAttributeName])
+<-endRefactoring marker->
 /*
  * Created on 18.06.2005
  */

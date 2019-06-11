@@ -1,3 +1,6 @@
+->RefactoringNumber->87931<-ExtractSuperClass(net.sourceforge.ganttproject.action.GPAction;Class_16;[iconVisible|ourProperties];[])
+->RefactoringNumber->87932<-ExtractSuperClass(net.sourceforge.ganttproject.action.GPAction;Class_17;[];[])
+<-endRefactoring marker->
 /*
  * Created on 26.03.2005
  */

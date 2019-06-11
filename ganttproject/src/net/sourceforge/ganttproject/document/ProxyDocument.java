@@ -1,3 +1,5 @@
+->RefactoringNumber->87936<-MoveField(net.sourceforge.ganttproject.document.ProxyDocument.AcquireLockState.OpenCopyConfirmationState.ParsingState;net.sourceforge.ganttproject.chart.ChartModelBase;[mySuccessState];[])
+<-endRefactoring marker->
 /*
  * Created on 12.03.2005
  */

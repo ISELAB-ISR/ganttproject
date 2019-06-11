@@ -1,3 +1,5 @@
+->RefactoringNumber->87933<-DecreaseFieldSecurity(net.sourceforge.ganttproject.chart.GraphicPrimitiveContainer.GraphicPrimitive;;[myModelObject];[])
+<-endRefactoring marker->
 /*
  * Created on 17.06.2004
  *

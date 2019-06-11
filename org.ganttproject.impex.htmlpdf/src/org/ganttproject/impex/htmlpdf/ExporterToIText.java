@@ -1,3 +1,5 @@
+->RefactoringNumber->87937<-DecreaseFieldSecurity(org.ganttproject.impex.htmlpdf.ExporterToIText.ChartWriter.ThemeImpl;;[myProperties];[])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool.
 Copyright (C) 2009 Dmitry Barashev

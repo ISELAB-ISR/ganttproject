@@ -1,3 +1,10 @@
+->RefactoringNumber->87910<-PullUpMethod(net.sourceforge.ganttproject.ChartComponentBase.MouseListenerBase.MouseMotionListenerBase;java.awt.event.MouseMotionAdapter;[];[mouseDragged])
+->RefactoringNumber->87915<-ExtractSuperClass(net.sourceforge.ganttproject.ChartComponentBase.MouseListenerBase.MouseMotionListenerBase.MouseWheelListenerBase;Class_3;[];[mouseWheelMoved|paintComponent|resetRenderers|scrollBy|setBottomUnit|setDimensions])
+->RefactoringNumber->87918<-ExtractSuperClass(net.sourceforge.ganttproject.ChartComponentBase.MouseListenerBase.MouseMotionListenerBase.MouseWheelListenerBase;Class_5;[];[])
+->RefactoringNumber->87922<-ExtractSuperClass(net.sourceforge.ganttproject.ChartComponentBase.MouseListenerBase.MouseMotionListenerBase.MouseWheelListenerBase.ChartSelectionImpl;Class_8;[myHumanResourceRO|myHumanResources|myTasks|myTasksRO|myTasksRO];[cancelClipboardTransaction|getTasks|newScrollViewInteraction|startCopyClipboardTransaction])
+->RefactoringNumber->87924<-ExtractSuperClass(net.sourceforge.ganttproject.ChartComponentBase.MouseListenerBase.MouseMotionListenerBase.MouseWheelListenerBase.ChartSelectionImpl;Class_10;[myHumanResourceRO|myHumanResources|myTasks];[])
+->RefactoringNumber->87925<-ExtractSuperClass(net.sourceforge.ganttproject.ChartComponentBase.MouseListenerBase.MouseMotionListenerBase.MouseWheelListenerBase.ChartSelectionImpl;Class_11;[];[])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject;
 
 import java.awt.Component;

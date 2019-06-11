@@ -1,3 +1,5 @@
+->RefactoringNumber->87928<-PushDownMethod(net.sourceforge.ganttproject.gui.options.model.DefaultColorOption;net.sourceforge.ganttproject.chart.ChartModelResource.ResourceLoadOption;[];[setValue])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.chart;
 
 import java.awt.Color;

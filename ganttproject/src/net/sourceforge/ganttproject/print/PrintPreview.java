@@ -1,3 +1,5 @@
+->RefactoringNumber->87914<-PullUpField(net.sourceforge.ganttproject.print.PrintPreview.PreviewContainer.PagePreview.StatusBar;javax.swing.JPanel;[label1];[])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.print;
 
 import java.awt.BorderLayout;

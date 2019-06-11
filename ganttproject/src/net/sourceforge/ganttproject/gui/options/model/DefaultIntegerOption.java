@@ -1,3 +1,5 @@
+->RefactoringNumber->87934<-PushDownMethod(net.sourceforge.ganttproject.gui.options.model.DefaultIntegerOption;net.sourceforge.ganttproject.document.DocumentCreator.StringOptionImpl.LockTimeoutOption;[];[setValue])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.gui.options.model;
 
 public class DefaultIntegerOption extends GPAbstractOption<Integer> implements IntegerOption {

@@ -1,3 +1,7 @@
+->RefactoringNumber->87912<-ExtractSuperClass(net.sourceforge.ganttproject.UIFacadeImpl.MyDialog;Class_1;[contentComponent|okAction];[actionPerformed|getActiveChart|getGanttChart|getResourceDividerLocation|resetErrorLog|setGanttDividerLocation|setResourceDividerLocation|setStatusText|showDialog])
+->RefactoringNumber->87917<-PullUpMethod(net.sourceforge.ganttproject.UIFacadeImpl.MyDialog.Commiter.ProxyOkAction.LafOption;net.sourceforge.ganttproject.gui.options.model.DefaultEnumerationOption;[];[getAttributeName])
+->RefactoringNumber->87935<-ExtractSuperClass(net.sourceforge.ganttproject.UIFacadeImpl.MyDialog.Commiter;Class_18;[isCommited];[commit|isCommited])
+<-endRefactoring marker->
 /*
  * Created on 10.10.2005
  */

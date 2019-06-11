@@ -1,3 +1,5 @@
+->RefactoringNumber->87941<-IncreaseMethodSecurity(net.sourceforge.ganttproject.GanttProjectBase.ViewManagerImpl.GPViewImpl.RowHeightAligner;;[];[setWebLink])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool.
 Copyright (C) 2005-2010 Dmitry Barashev

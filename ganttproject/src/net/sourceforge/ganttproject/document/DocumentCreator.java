@@ -1,3 +1,7 @@
+->RefactoringNumber->87929<-ExtractSuperClass(net.sourceforge.ganttproject.document.DocumentCreator;Class_14;[SERVERNAME_OPTION_ID|myFtpOptions|myFtpPasswordOption|myLastWebDAVDocument|myParserFactory|myProject];[createDocument1|createDocument2|getDocument|getOptionGroup|getServerName|getUserName|getVisibleFields|getWorkingDirectoryFile|setParserFactory])
+->RefactoringNumber->87930<-ExtractSuperClass(net.sourceforge.ganttproject.document.DocumentCreator;Class_15;[];[createTemporaryFile|getDirectoryName|getFTPOptions])
+->RefactoringNumber->87934<-PushDownMethod(net.sourceforge.ganttproject.gui.options.model.DefaultIntegerOption;net.sourceforge.ganttproject.document.DocumentCreator.StringOptionImpl.LockTimeoutOption;[];[setValue])
+<-endRefactoring marker->
 /*
  * Created on 20.08.2003
  *

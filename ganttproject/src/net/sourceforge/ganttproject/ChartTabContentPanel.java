@@ -1,3 +1,5 @@
+->RefactoringNumber->87940<-ExtractClass(net.sourceforge.ganttproject.ChartTabContentPanel;Class_19;[mySplitPane];[createChartPanels])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject;
 
 import java.awt.BorderLayout;
