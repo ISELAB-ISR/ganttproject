@@ -1,3 +1,5 @@
+->RefactoringNumber->90945<-ExtractSuperClass(net.sourceforge.ganttproject.GPTreeTableBase;Class_1;[];[getProject|newTableColumnExt|processKeyBinding])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject;
 
 import java.awt.BorderLayout;

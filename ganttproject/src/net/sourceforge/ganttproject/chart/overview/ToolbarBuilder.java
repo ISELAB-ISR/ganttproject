@@ -1,3 +1,6 @@
+->RefactoringNumber->90955<-ExtractSubClass(net.sourceforge.ganttproject.chart.overview.ToolbarBuilder.MyComboBox;Class_6;[myActions|mySelectedAction];[build|getPreferredSize])
+->RefactoringNumber->90956<-ExtractSuperClass(net.sourceforge.ganttproject.chart.overview.ToolbarBuilder;Class_7;[myToolbar];[addButton])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool. License: GPL2
 Copyright (C) 2010 Dmitry Barashev

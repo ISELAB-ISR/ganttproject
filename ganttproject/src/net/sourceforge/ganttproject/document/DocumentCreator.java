@@ -1,3 +1,5 @@
+->RefactoringNumber->90948<-ExtractSuperClass(net.sourceforge.ganttproject.document.DocumentCreator;Class_3;[myFtpPasswordOption|myProject];[addToRecentDocuments|createTemporaryFile|getDocument|getFTPOptions|getOptionGroup|getUserName|getWebDavLockTimeoutOption|setParserFactory])
+<-endRefactoring marker->
 /*
  * Created on 20.08.2003
  *

@@ -1,3 +1,8 @@
+->RefactoringNumber->90947<-IncreaseMethodSecurity(net.sourceforge.ganttproject.GanttProjectBase.ViewManagerImpl;;[];[projectModified])
+->RefactoringNumber->90949<-DecreaseFieldSecurity(net.sourceforge.ganttproject.GanttProjectBase.ViewManagerImpl.GPViewImpl;;[myChart];[])
+->RefactoringNumber->90961<-ExtractSuperClass(net.sourceforge.ganttproject.GanttProjectBase.ViewManagerImpl;Class_9;[myTabs|myViews];[createView|getCopyAction|getLocalizedName|getPasteAction|projectModified|projectSaved|stateChanged])
+->RefactoringNumber->90964<-ExtractSubClass(net.sourceforge.ganttproject.GanttProjectBase.ViewManagerImpl.GPViewImpl.RowHeightAligner;Class_10;[];[getHumanResourceManager|getParserFactory|setDescription])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool.
 Copyright (C) 2005-2010 Dmitry Barashev

@@ -1,3 +1,5 @@
+->RefactoringNumber->90958<-MoveField(org.ganttproject.impex.htmlpdf.ExporterToHTML.HTMLStylesheetImpl;net.sourceforge.ganttproject.UIFacadeImpl.MyDialog.Commiter;[GANTT_CHART_FILE_EXTENSION];[])
+<-endRefactoring marker->
 /*
  * Created on 17.05.2005
  */

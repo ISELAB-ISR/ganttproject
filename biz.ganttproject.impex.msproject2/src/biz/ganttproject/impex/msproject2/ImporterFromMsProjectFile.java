@@ -1,3 +1,5 @@
+->RefactoringNumber->90960<-ExtractSubClass(biz.ganttproject.impex.msproject2.ImporterFromMsProjectFile;Class_8;[];[run])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool. License: GPL2
 Copyright (C) 2010 Dmitry Barashev

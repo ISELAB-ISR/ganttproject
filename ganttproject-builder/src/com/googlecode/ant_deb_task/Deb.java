@@ -1,3 +1,5 @@
+->RefactoringNumber->90971<-MoveField(com.googlecode.ant_deb_task.Deb.Description;net.sourceforge.ganttproject.task.dependency.TaskDependencySliceAsDependee;[_synopsis];[])
+<-endRefactoring marker->
 package com.googlecode.ant_deb_task;
 
 import org.apache.tools.ant.*;

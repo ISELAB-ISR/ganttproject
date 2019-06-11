@@ -1,3 +1,5 @@
+->RefactoringNumber->90963<-MoveField(net.sourceforge.ganttproject.UIFacadeImpl.MyDialog.Commiter;net.sourceforge.ganttproject.chart.TaskActivityRenderer.Style;[isCommited];[])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool. License: GPL2
 Copyright (C) 2010 Dmitry Barashev

@@ -1,3 +1,12 @@
+->RefactoringNumber->90958<-MoveField(org.ganttproject.impex.htmlpdf.ExporterToHTML.HTMLStylesheetImpl;net.sourceforge.ganttproject.UIFacadeImpl.MyDialog.Commiter;[GANTT_CHART_FILE_EXTENSION];[])
+->RefactoringNumber->90962<-PullUpField(net.sourceforge.ganttproject.UIFacadeImpl;org.eclipse.core.runtime.jobs.ProgressProvider;[myMainFrame];[])
+->RefactoringNumber->90963<-MoveField(net.sourceforge.ganttproject.UIFacadeImpl.MyDialog.Commiter;net.sourceforge.ganttproject.chart.TaskActivityRenderer.Style;[isCommited];[])
+->RefactoringNumber->90967<-MoveField(net.sourceforge.ganttproject.UIFacadeImpl;net.sourceforge.ganttproject.UIFacadeImpl.MyDialog.Commiter.ProxyOkAction.LafOption.LanguageOption;[myZoomManager];[])
+->RefactoringNumber->90967<-MoveField(net.sourceforge.ganttproject.UIFacadeImpl;net.sourceforge.ganttproject.UIFacadeImpl.MyDialog.Commiter.ProxyOkAction.LafOption.LanguageOption;[myZoomManager];[])
+->RefactoringNumber->90973<-PullUpMethod(net.sourceforge.ganttproject.UIFacadeImpl.MyDialog.Commiter.ProxyOkAction;net.sourceforge.ganttproject.action.OkAction;[];[actionPerformed])
+->RefactoringNumber->90974<-PullUpField(net.sourceforge.ganttproject.UIFacadeImpl;org.eclipse.core.runtime.jobs.ProgressProvider;[myOptions];[])
+->RefactoringNumber->90975<-MoveField(net.sourceforge.ganttproject.task.Task.Priority;net.sourceforge.ganttproject.UIFacadeImpl.MyDialog.Commiter.ProxyOkAction.LafOption.LanguageOption;[DEFAULT_PRIORITY];[])
+<-endRefactoring marker->
 /*
  * Created on 10.10.2005
  */

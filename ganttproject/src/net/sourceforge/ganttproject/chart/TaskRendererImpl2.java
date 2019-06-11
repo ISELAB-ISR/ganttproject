@@ -1,3 +1,8 @@
+->RefactoringNumber->90946<-ExtractSubClass(net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData.PointVector.WestPointVector.EastPointVector;Class_2;[];[calculateRowHeight|getContainerFor|getOptionGroups|getPoint])
+->RefactoringNumber->90954<-EncapsulateField(net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData;;[myDependantRectangle];[])
+->RefactoringNumber->90957<-MoveField(net.sourceforge.ganttproject.GanttTreeTable.DisplayedColumnsList.DisplayedColumn.ColumnKeeper.HeaderMouseListener;net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData;[first];[])
+->RefactoringNumber->90959<-PullUpMethod(net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData.PointVector.WestPointVector;net.sourceforge.ganttproject.chart.PointVector;[];[toString])
+<-endRefactoring marker->
 /* LICENSE: GPL2
 Copyright (C) 2010 Dmitry Barashev
 

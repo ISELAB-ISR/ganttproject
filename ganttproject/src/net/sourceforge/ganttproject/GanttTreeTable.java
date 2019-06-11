@@ -1,3 +1,6 @@
+->RefactoringNumber->90957<-MoveField(net.sourceforge.ganttproject.GanttTreeTable.DisplayedColumnsList.DisplayedColumn.ColumnKeeper.HeaderMouseListener;net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData;[first];[])
+->RefactoringNumber->90965<-MoveMethod(net.sourceforge.ganttproject.GanttTreeTable.DisplayedColumnsList.DisplayedColumn;net.sourceforge.ganttproject.chart.Factory;[];[isDisplayed])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject;
 
 import java.awt.Color;

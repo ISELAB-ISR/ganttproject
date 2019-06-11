@@ -1,3 +1,5 @@
+->RefactoringNumber->90952<-EncapsulateField(net.sourceforge.ganttproject.chart.GraphicPrimitiveContainer.GraphicPrimitive.Rectangle;;[myHeight];[])
+<-endRefactoring marker->
 /*
  * Created on 17.06.2004
  *

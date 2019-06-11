@@ -1,3 +1,5 @@
+->RefactoringNumber->90966<-MoveMethod(org.ganttproject.impex.htmlpdf.FontSubstitutionModel.FontSubstitution;net.sourceforge.ganttproject.chart.ChartModelBase;[];[getSubstitutions])
+<-endRefactoring marker->
 /*
  * This code is provided under the terms of GPL version 2.
  * Please see LICENSE file for details

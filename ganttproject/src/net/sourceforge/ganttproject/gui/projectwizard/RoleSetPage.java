@@ -1,3 +1,5 @@
+->RefactoringNumber->90972<-MoveMethod(net.sourceforge.ganttproject.gui.projectwizard.RoleSetPage.RoleSetListModel;net.sourceforge.ganttproject.action.task.LinkTasksAction;[];[createTooltipText])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.gui.projectwizard;
 
 import java.awt.BorderLayout;

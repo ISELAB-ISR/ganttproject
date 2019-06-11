@@ -1,3 +1,5 @@
+->RefactoringNumber->90965<-MoveMethod(net.sourceforge.ganttproject.GanttTreeTable.DisplayedColumnsList.DisplayedColumn;net.sourceforge.ganttproject.chart.Factory;[];[isDisplayed])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool. License: GPL2
 Copyright (C) 2010 Dmitry Barashev

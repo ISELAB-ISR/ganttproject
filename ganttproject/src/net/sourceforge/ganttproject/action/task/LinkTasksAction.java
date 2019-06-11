@@ -1,3 +1,5 @@
+->RefactoringNumber->90972<-MoveMethod(net.sourceforge.ganttproject.gui.projectwizard.RoleSetPage.RoleSetListModel;net.sourceforge.ganttproject.action.task.LinkTasksAction;[];[createTooltipText])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool.
 Copyright (C) 2002-2010 Dmitry Barashev

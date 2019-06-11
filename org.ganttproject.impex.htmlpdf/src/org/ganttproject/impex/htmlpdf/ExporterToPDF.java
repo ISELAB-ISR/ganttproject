@@ -1,3 +1,5 @@
+->RefactoringNumber->90950<-ExtractSuperClass(org.ganttproject.impex.htmlpdf.ExporterToPDF.ExportState;Class_4;[driver];[getStylesheets|setSelectedStylesheet])
+<-endRefactoring marker->
 /*
  * Created on 18.09.2005
  */

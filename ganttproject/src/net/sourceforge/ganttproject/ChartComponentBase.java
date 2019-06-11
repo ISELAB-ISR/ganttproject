@@ -1,3 +1,5 @@
+->RefactoringNumber->90951<-ExtractSuperClass(net.sourceforge.ganttproject.ChartComponentBase;Class_5;[myOptionsDialogAction|myUIFacade|myZoomManager];[getAdapter|getViewState])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject;
 
 import java.awt.Component;

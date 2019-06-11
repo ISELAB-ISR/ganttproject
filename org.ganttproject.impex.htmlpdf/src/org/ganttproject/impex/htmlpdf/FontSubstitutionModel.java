@@ -1,3 +1,5 @@
+->RefactoringNumber->90966<-MoveMethod(org.ganttproject.impex.htmlpdf.FontSubstitutionModel.FontSubstitution;net.sourceforge.ganttproject.chart.ChartModelBase;[];[getSubstitutions])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool.
 Copyright (C) 2009 Dmitry Barashev

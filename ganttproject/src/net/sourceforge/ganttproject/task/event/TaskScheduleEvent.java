@@ -1,3 +1,5 @@
+->RefactoringNumber->90976<-ExtractClass(net.sourceforge.ganttproject.task.event.TaskScheduleEvent;Class_12;[myNewFinishDate|myNewStartDate];[getOldStartDate])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.task.event;
 
 import java.util.EventObject;

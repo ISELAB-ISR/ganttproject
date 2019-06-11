@@ -1,3 +1,5 @@
+->RefactoringNumber->90968<-ExtractClass(net.sourceforge.ganttproject.gui.GanttTaskPropertiesBean;Class_11;[colorChooser|durationField1|isColorChanged|language|mutator|myDependenciesPanel|myHumanResourceManager|myRoleManager|notesPanel|projectTaskCheckBox1|secondRowPanelNotes|shapeComboBox|taskIsProjectTask|taskNotes|taskShape];[actionPerformed9|addEmptyRow|constructGeneralPanel|focusGained|getReturnTask|init])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.gui;
 
 import java.awt.BorderLayout;

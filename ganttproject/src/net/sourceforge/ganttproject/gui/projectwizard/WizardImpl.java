@@ -1,3 +1,5 @@
+->RefactoringNumber->90969<-MoveField(net.sourceforge.ganttproject.gui.projectwizard.WizardImpl.NextAction.BackAction;net.sourceforge.ganttproject.GanttChartTabContentPanel;[myCurrentPage];[])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.gui.projectwizard;
 
 import java.awt.BorderLayout;

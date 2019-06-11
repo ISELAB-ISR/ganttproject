@@ -1,3 +1,6 @@
+->RefactoringNumber->90969<-MoveField(net.sourceforge.ganttproject.gui.projectwizard.WizardImpl.NextAction.BackAction;net.sourceforge.ganttproject.GanttChartTabContentPanel;[myCurrentPage];[])
+->RefactoringNumber->90970<-IncreaseMethodSecurity(net.sourceforge.ganttproject.GanttChartTabContentPanel;;[];[createButtonPanel])
+<-endRefactoring marker->
 /*
  * Created on 22.10.2005
  */
