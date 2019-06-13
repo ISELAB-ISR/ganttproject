@@ -1,3 +1,5 @@
+->RefactoringNumber->94090<-MoveMethod(net.sourceforge.ganttproject.GPTreeTableBase.DateCellEditor.VscrollAdjustmentListener;net.sourceforge.ganttproject.gui.taskproperties.CustomColumnsPanel;[];[getChart])
+<-endRefactoring marker->
 /* LICENSE: GPL2
 Copyright (C) 2010 Dmitry Barashev
 

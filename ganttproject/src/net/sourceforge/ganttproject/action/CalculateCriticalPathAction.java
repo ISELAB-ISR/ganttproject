@@ -1,3 +1,5 @@
+->RefactoringNumber->94087<-DecreaseMethodSecurity(net.sourceforge.ganttproject.action.CalculateCriticalPathAction;;[];[getKey])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.action;
 
 import java.awt.event.ActionEvent;

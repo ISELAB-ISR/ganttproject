@@ -1,3 +1,5 @@
+->RefactoringNumber->94081<-ExtractSuperClass(net.sourceforge.ganttproject.GanttProjectBase.ViewManagerImpl.GPViewImpl;Class_4;[isVisible];[setActive|setVisible])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool.
 Copyright (C) 2005-2010 Dmitry Barashev

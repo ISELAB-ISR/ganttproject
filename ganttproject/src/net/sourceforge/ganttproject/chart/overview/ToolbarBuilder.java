@@ -1,3 +1,5 @@
+->RefactoringNumber->94097<-ExtractSuperClass(net.sourceforge.ganttproject.chart.overview.ToolbarBuilder;Class_14;[myChart];[addComboBox])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool. License: GPL2
 Copyright (C) 2010 Dmitry Barashev

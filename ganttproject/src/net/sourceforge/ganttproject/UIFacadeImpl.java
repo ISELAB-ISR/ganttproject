@@ -1,3 +1,6 @@
+->RefactoringNumber->94077<-ExtractSuperClass(net.sourceforge.ganttproject.UIFacadeImpl.MyDialog;Class_2;[okAction];[getGanttDividerLocation|getResourceChart|getResourceDividerLocation|getViewIndex|resetErrorLog|setGanttDividerLocation|setStatusText])
+->RefactoringNumber->94086<-ExtractSuperClass(net.sourceforge.ganttproject.UIFacadeImpl.MyDialog;Class_8;[result];[actionPerformed|getActiveChart|getMainFrame])
+<-endRefactoring marker->
 /*
  * Created on 10.10.2005
  */

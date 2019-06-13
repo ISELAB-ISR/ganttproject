@@ -1,3 +1,6 @@
+->RefactoringNumber->94080<-PullUpMethod(net.sourceforge.ganttproject.chart.ChartModelImpl.NewTaskColorOption;net.sourceforge.ganttproject.gui.options.model.DefaultColorOption;[];[getChartItemWithCoordinates])
+->RefactoringNumber->94084<-ExtractClass(net.sourceforge.ganttproject.chart.ChartModelImpl.NewTaskColorOption;Class_7;[];[getTagName])
+<-endRefactoring marker->
 /*
  * This code is provided under the terms of GPL version 2.
  * Please see LICENSE file for details

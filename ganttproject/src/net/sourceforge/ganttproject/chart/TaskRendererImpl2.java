@@ -1,3 +1,5 @@
+->RefactoringNumber->94085<-PullUpMethod(net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData.PointVector.WestPointVector;net.sourceforge.ganttproject.chart.PointVector;[];[getPoint])
+<-endRefactoring marker->
 /* LICENSE: GPL2
 Copyright (C) 2010 Dmitry Barashev
 

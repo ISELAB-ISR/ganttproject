@@ -1,3 +1,5 @@
+->RefactoringNumber->94092<-MoveField(net.sourceforge.ganttproject.gui.taskproperties.TaskAllocationsPanel.BooleanRenderer;net.sourceforge.ganttproject.task.dependency.TaskDependencyCollectionImpl.MutatorImpl.MutationInfo;[EMPTY_LABEL];[])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.task.dependency;
 
 import java.util.ArrayList;

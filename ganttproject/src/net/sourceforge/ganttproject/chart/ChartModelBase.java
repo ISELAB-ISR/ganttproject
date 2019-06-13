@@ -1,3 +1,5 @@
+->RefactoringNumber->94091<-MoveField(net.sourceforge.ganttproject.gui.GanttStatusBar.MessagePanel.ErrorNotificationPanel.ProgressBarDialog.ProgressMonitorImpl;net.sourceforge.ganttproject.chart.ChartModelBase;[myWorked];[])
+<-endRefactoring marker->
 /*
  * This code is provided under the terms of GPL version 2.
  * Please see LICENSE file for details

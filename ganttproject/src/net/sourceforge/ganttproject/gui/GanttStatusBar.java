@@ -1,3 +1,5 @@
+->RefactoringNumber->94091<-MoveField(net.sourceforge.ganttproject.gui.GanttStatusBar.MessagePanel.ErrorNotificationPanel.ProgressBarDialog.ProgressMonitorImpl;net.sourceforge.ganttproject.chart.ChartModelBase;[myWorked];[])
+<-endRefactoring marker->
 /***************************************************************************
  GanttStatusBar.java 
  ------------------------------------------

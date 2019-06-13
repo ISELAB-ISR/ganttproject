@@ -1,3 +1,6 @@
+->RefactoringNumber->94093<-PullUpField(net.sourceforge.ganttproject.GanttChartTabContentPanel;net.sourceforge.ganttproject.ChartTabContentPanel;[myWorkbenchFacade];[])
+->RefactoringNumber->94099<-PullUpField(net.sourceforge.ganttproject.GanttChartTabContentPanel;net.sourceforge.ganttproject.ChartTabContentPanel;[myProject];[])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject;
 
 import java.awt.BorderLayout;

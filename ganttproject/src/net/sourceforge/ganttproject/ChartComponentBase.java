@@ -1,3 +1,10 @@
+->RefactoringNumber->94078<-ExtractSuperClass(net.sourceforge.ganttproject.ChartComponentBase.MouseListenerBase.MouseMotionListenerBase.MouseWheelListenerBase;Class_3;[];[fireZoomIn|getEndDate|mouseWheelMoved|paintChart|setBottomUnitWidth|setDimensions])
+->RefactoringNumber->94079<-PullUpMethod(net.sourceforge.ganttproject.ChartComponentBase.MouseListenerBase.MouseMotionListenerBase;java.awt.event.MouseMotionAdapter;[];[mouseDragged])
+->RefactoringNumber->94089<-ExtractSuperClass(net.sourceforge.ganttproject.ChartComponentBase.MouseListenerBase.MouseMotionListenerBase.MouseWheelListenerBase;Class_10;[];[addRenderer|getProject|paintComponent|scrollBy|setTopUnit])
+->RefactoringNumber->94094<-ExtractSuperClass(net.sourceforge.ganttproject.ChartComponentBase.MouseListenerBase.MouseMotionListenerBase.MouseWheelListenerBase;Class_11;[];[getStartDate|resetRenderers|setBottomUnit|setStartOffset])
+->RefactoringNumber->94095<-ExtractSuperClass(net.sourceforge.ganttproject.ChartComponentBase;Class_12;[myMouseWheelListener|myProject|myZoomManager];[canPaste|removeSelectionListener])
+->RefactoringNumber->94096<-ExtractSuperClass(net.sourceforge.ganttproject.ChartComponentBase;Class_13;[];[])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject;
 
 import java.awt.Component;

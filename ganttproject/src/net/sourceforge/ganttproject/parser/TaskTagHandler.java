@@ -1,3 +1,5 @@
+->RefactoringNumber->94082<-ExtractSuperClass(net.sourceforge.ganttproject.parser.TaskTagHandler;Class_5;[myStack];[startElement])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.parser;
 
 import java.awt.Color;

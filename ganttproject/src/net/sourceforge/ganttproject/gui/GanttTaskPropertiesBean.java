@@ -1,3 +1,6 @@
+->RefactoringNumber->94088<-ExtractClass(net.sourceforge.ganttproject.gui.GanttTaskPropertiesBean;Class_9;[colorChooser|end|fixedDatesCheckBox|language|myAllocationsPanel|myRoleManager|myTaskManager|myThirdDatePicker|myUIfacade|myUnpluggedClone|nameField1|percentCompleteSlider|priorityComboBox|projectTaskCheckBox1|scrollPaneNotes|selectedTasks|start|tabbedPane|taskCompletionPercentage|taskHasFixedDates|taskLength|taskPriority|taskShape|third];[actionPerformed1|actionPerformed2|actionPerformed4|constructGeneralPanel|fireDurationChanged|focusGained|getTaskName])
+->RefactoringNumber->94100<-ExtractSubClass(net.sourceforge.ganttproject.gui.GanttTaskPropertiesBean;Class_16;[myHumanResourceManager|noteAreaNotes];[actionPerformed1|actionPerformed4|actionPerformed5|actionPerformed7|addActionListener|addEmptyRow|adjustLength|changeNameOfTask|constructCheckBox|constructResourcesPanel|fireDurationChanged|focusGained|focusLost|getLength|getStart|getTaskName|isMilestone|isProjectTaskOrContainsProjectTask|setInitialValues])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.gui;
 
 import java.awt.BorderLayout;

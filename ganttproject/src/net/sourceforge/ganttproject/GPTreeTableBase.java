@@ -1,3 +1,7 @@
+->RefactoringNumber->94076<-ExtractSuperClass(net.sourceforge.ganttproject.GPTreeTableBase;Class_1;[];[])
+->RefactoringNumber->94083<-ExtractSuperClass(net.sourceforge.ganttproject.GPTreeTableBase;Class_6;[];[getProject|newDateCellEditor])
+->RefactoringNumber->94090<-MoveMethod(net.sourceforge.ganttproject.GPTreeTableBase.DateCellEditor.VscrollAdjustmentListener;net.sourceforge.ganttproject.gui.taskproperties.CustomColumnsPanel;[];[getChart])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject;
 
 import java.awt.BorderLayout;

@@ -1,3 +1,5 @@
+->RefactoringNumber->94092<-MoveField(net.sourceforge.ganttproject.gui.taskproperties.TaskAllocationsPanel.BooleanRenderer;net.sourceforge.ganttproject.task.dependency.TaskDependencyCollectionImpl.MutatorImpl.MutationInfo;[EMPTY_LABEL];[])
+<-endRefactoring marker->
 /* 
 GanttProject is an opensource project management tool. License: GPL2
 Copyright (C) 2010 Dmitry Barashev
