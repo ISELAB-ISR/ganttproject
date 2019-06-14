@@ -1,3 +1,6 @@
+->RefactoringNumber->96991<-ExtractSuperClass(net.sourceforge.ganttproject.importer.ImporterFromGanttFile.TaskFieldImpl.VisibleFieldsImpl;Class_4;[myFields];[clear|createBufferProject|getDocument|getField|getSize|importBufferProject])
+->RefactoringNumber->96992<-DecreaseFieldSecurity(net.sourceforge.ganttproject.importer.ImporterFromGanttFile.TaskFieldImpl.VisibleFieldsImpl;;[myFields];[])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool.
 Copyright (C) 2010 Dmitry Barashev

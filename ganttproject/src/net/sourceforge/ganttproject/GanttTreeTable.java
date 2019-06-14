@@ -1,3 +1,6 @@
+->RefactoringNumber->96986<-ExtractSuperClass(net.sourceforge.ganttproject.GanttTreeTable.DisplayedColumnsList.DisplayedColumn.ColumnKeeper;Class_1;[isShown];[actionPerformed|getInitIndex])
+->RefactoringNumber->97001<-ExtractSubClass(net.sourceforge.ganttproject.GanttTreeTable;Class_6;[clickPoint|myLanguageListener|popupMenu];[deleteColumnFromUI|displayColumn|onCellSelectionChanged|removeCustomColumnToAllNestedTask|setAction|setCustomColumnValueToAllNestedTask|setDelay|treeNodesChanged|treeStructureChanged])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject;
 
 import java.awt.Color;

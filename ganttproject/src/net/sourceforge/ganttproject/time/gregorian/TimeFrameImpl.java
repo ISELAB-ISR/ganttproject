@@ -1,3 +1,5 @@
+->RefactoringNumber->96988<-IncreaseMethodSecurity(net.sourceforge.ganttproject.time.gregorian.TimeFrameImpl.UnitInfo.LineHeader;;[];[getLineItem])
+<-endRefactoring marker->
 /*
  * Created on 08.11.2004
  */

@@ -1,3 +1,5 @@
+->RefactoringNumber->97000<-IncreaseMethodSecurity(net.sourceforge.ganttproject.io.GanttTXTOpen;;[];[load])
+<-endRefactoring marker->
 /***************************************************************************
  GanttTXTOpen  -  A class for open a list of task from a txt file
  -------------------

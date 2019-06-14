@@ -1,3 +1,5 @@
+->RefactoringNumber->96994<-ExtractSuperClass(net.sourceforge.ganttproject.resource.HumanResourceManager;Class_5;[customFields|myListeners];[create|down|fireCleanup|getById|getCustomPropertyManager|getResources|newHumanResource|save])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool.
 Copyright (C) 2003-2010 Alexandre Thomas, Michael Barmeier, Dmitry Barashev

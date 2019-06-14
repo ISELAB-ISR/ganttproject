@@ -1,3 +1,5 @@
+->RefactoringNumber->96987<-ExtractSuperClass(net.sourceforge.ganttproject.io.GanttCSVExport;Class_2;[bFixedSize];[beginToSave|writeResourceHeaders])
+<-endRefactoring marker->
 /***************************************************************************
  GanttCSVExport.java
  -----------------

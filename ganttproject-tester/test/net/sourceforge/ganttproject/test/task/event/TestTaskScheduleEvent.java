@@ -1,3 +1,6 @@
+->RefactoringNumber->96999<-PullUpMethod(net.sourceforge.ganttproject.test.task.event.TestTaskScheduleEvent;net.sourceforge.ganttproject.test.task.TaskTestCase;[];[testTaskScheduleEventIsSendOnTaskEndChange])
+->RefactoringNumber->97005<-PullUpMethod(net.sourceforge.ganttproject.test.task.event.TestTaskScheduleEvent;net.sourceforge.ganttproject.test.task.TaskTestCase;[];[testTaskScheduleEventIsSendOnTaskDurationChange])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.test.task.event;
 
 import net.sourceforge.ganttproject.test.task.TaskTestCase;

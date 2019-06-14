@@ -1,3 +1,5 @@
+->RefactoringNumber->96985<-PullUpMethod(net.sourceforge.ganttproject.gui.taskproperties.TaskAllocationsPanel;net.sourceforge.ganttproject.gui.taskproperties.CommonPanel;[];[constructResourcesPanel])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.gui.taskproperties;
 
 import java.awt.Component;

@@ -1,3 +1,9 @@
+->RefactoringNumber->96990<-PullUpMethod(net.sourceforge.ganttproject.gui.GanttStatusBar.MessagePanel.ErrorNotificationPanel.ProgressBarDialog;javax.swing.JDialog;[];[start])
+->RefactoringNumber->96995<-PullUpMethod(net.sourceforge.ganttproject.gui.GanttStatusBar.MessagePanel.ErrorNotificationPanel.ProgressBarDialog;javax.swing.JDialog;[];[done])
+->RefactoringNumber->96996<-PullUpMethod(net.sourceforge.ganttproject.gui.GanttStatusBar.MessagePanel.ErrorNotificationPanel;javax.swing.JPanel;[];[disableNotifier])
+->RefactoringNumber->97002<-PullUpMethod(net.sourceforge.ganttproject.gui.GanttStatusBar;javax.swing.JPanel;[];[setFirstText])
+->RefactoringNumber->97004<-ExtractSuperClass(net.sourceforge.ganttproject.gui.GanttStatusBar.MessagePanel.ErrorNotificationPanel.ProgressBarDialog.ProgressMonitorImpl;Class_8;[myTaskName];[run|setTaskName|subTask])
+<-endRefactoring marker->
 /***************************************************************************
  GanttStatusBar.java 
  ------------------------------------------

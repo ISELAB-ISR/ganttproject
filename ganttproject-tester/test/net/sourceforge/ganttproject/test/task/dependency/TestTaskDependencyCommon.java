@@ -1,3 +1,5 @@
+->RefactoringNumber->96997<-PullUpMethod(net.sourceforge.ganttproject.test.task.dependency.TestTaskDependencyCommon;net.sourceforge.ganttproject.test.task.TaskTestCase;[];[testOneDependencyDeletionDoesntAffectOthers])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.test.task.dependency;
 
 import net.sourceforge.ganttproject.task.TaskManager;

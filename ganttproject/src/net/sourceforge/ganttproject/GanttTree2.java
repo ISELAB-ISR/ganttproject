@@ -1,3 +1,6 @@
+->RefactoringNumber->96989<-ExtractSuperClass(net.sourceforge.ganttproject.GanttTree2.AutoscrollingTree.HiddenTask.GanttAdjustmentListener.GanttTreeExpansionListener;Class_3;[];[treeCollapsed])
+->RefactoringNumber->97008<-DecreaseFieldSecurity(net.sourceforge.ganttproject.GanttTree2.AutoscrollingTree.HiddenTask.GanttAdjustmentListener.GanttTreeExpansionListener.GanttTreeModelListener.GanttTreeDropListener.GanttTransferableTreePath.GanttTreeCellRenderer;;[cpNodesArrayList];[])
+<-endRefactoring marker->
 /***************************************************************************
  * GanttTree.java  -  description
  * -------------------

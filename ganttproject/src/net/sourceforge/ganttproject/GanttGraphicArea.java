@@ -1,3 +1,7 @@
+->RefactoringNumber->96984<-PullUpMethod(net.sourceforge.ganttproject.GanttGraphicArea.MouseSupport.ChangeTaskBoundaryInteraction.ChangeTaskEndInteraction.ChangeTaskStartInteraction;net.sourceforge.ganttproject.ChangeTaskBoundaryInteraction;[];[getNotesText])
+->RefactoringNumber->97006<-PullUpMethod(net.sourceforge.ganttproject.GanttGraphicArea.MouseSupport.ChangeTaskBoundaryInteraction.ChangeTaskEndInteraction.ChangeTaskStartInteraction.ChangeTaskProgressInteraction.DrawDependencyInteraction;net.sourceforge.ganttproject.MouseInteractionBase;[];[finish])
+->RefactoringNumber->97007<-PullUpMethod(net.sourceforge.ganttproject.GanttGraphicArea.MouseSupport.ChangeTaskBoundaryInteraction.ChangeTaskEndInteraction.ChangeTaskStartInteraction;net.sourceforge.ganttproject.ChangeTaskBoundaryInteraction;[];[apply])
+<-endRefactoring marker->
 /***************************************************************************
 
  GanttGraphicArea.java  -  description

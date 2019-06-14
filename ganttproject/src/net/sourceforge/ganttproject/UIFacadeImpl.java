@@ -1,3 +1,6 @@
+->RefactoringNumber->96998<-IncreaseMethodSecurity(net.sourceforge.ganttproject.UIFacadeImpl.MyDialog.Commiter.ProxyOkAction;;[];[setWorkbenchTitle])
+->RefactoringNumber->97003<-ExtractSuperClass(net.sourceforge.ganttproject.UIFacadeImpl.MyDialog;Class_7;[okAction|result];[createDialogContentComponent|getActiveChart|getResourceDividerLocation|refresh|setViewIndex|showConfirmationDialog|windowClosed])
+<-endRefactoring marker->
 /*
  * Created on 10.10.2005
  */
