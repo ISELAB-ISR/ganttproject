@@ -1,3 +1,5 @@
+->RefactoringNumber->99699<-ExtractSuperClass(net.sourceforge.ganttproject.action.project.ProjectMenu;Class_13;[];[getProjectSettingsAction])
+<-endRefactoring marker->
 /*
  * Created on 26.09.2005
  */

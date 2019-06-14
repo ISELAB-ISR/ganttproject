@@ -1,3 +1,5 @@
+->RefactoringNumber->99690<-ExtractSubClass(net.sourceforge.ganttproject.gui.GanttStatusBar.MessagePanel;Class_9;[message|textColor];[getTimer|setText])
+<-endRefactoring marker->
 /***************************************************************************
  GanttStatusBar.java 
  ------------------------------------------

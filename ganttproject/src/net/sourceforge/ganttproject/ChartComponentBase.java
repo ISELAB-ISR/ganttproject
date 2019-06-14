@@ -1,3 +1,7 @@
+->RefactoringNumber->99683<-ExtractSubClass(net.sourceforge.ganttproject.ChartComponentBase.MouseListenerBase.MouseMotionListenerBase.MouseWheelListenerBase;Class_6;[];[addRenderer|fireZoomIn|getImplementation|paintChart|setBottomUnitWidth|setTopUnit])
+->RefactoringNumber->99697<-ExtractSuperClass(net.sourceforge.ganttproject.ChartComponentBase.MouseListenerBase.MouseMotionListenerBase.MouseWheelListenerBase.ChartSelectionImpl;Class_11;[isTransactionRunning];[commitClipboardTransaction|getHumanResources|isDeletable|newScrollViewInteraction|startCopyClipboardTransaction])
+->RefactoringNumber->99698<-ExtractClass(net.sourceforge.ganttproject.ChartComponentBase.MouseListenerBase;Class_12;[];[getPopupMenuActions|processLeftButton])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject;
 
 import java.awt.Component;

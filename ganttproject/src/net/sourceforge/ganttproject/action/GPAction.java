@@ -1,3 +1,5 @@
+->RefactoringNumber->99691<-IncreaseMethodSecurity(net.sourceforge.ganttproject.action.GPAction;;[];[isIconVisible])
+<-endRefactoring marker->
 /*
  * Created on 26.03.2005
  */

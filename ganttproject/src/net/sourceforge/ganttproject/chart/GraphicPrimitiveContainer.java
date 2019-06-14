@@ -1,3 +1,5 @@
+->RefactoringNumber->99688<-PullUpMethod(net.sourceforge.ganttproject.chart.GraphicPrimitiveContainer.GraphicPrimitive.Rectangle;net.sourceforge.ganttproject.chart.GraphicPrimitive;[];[getBottomY])
+<-endRefactoring marker->
 /*
  * Created on 17.06.2004
  *

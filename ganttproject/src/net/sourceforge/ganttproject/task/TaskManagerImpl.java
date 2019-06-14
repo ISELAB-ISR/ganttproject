@@ -1,3 +1,5 @@
+->RefactoringNumber->99682<-ExtractSuperClass(net.sourceforge.ganttproject.task.TaskManagerImpl.TaskMap.FacadeImpl.FacadeFactoryImpl;Class_5;[];[importData2|onTaskMoved|processCriticalPath|setEventsEnabled])
+<-endRefactoring marker->
 /*
  * Created on 05.07.2003
  *

@@ -1,3 +1,5 @@
+->RefactoringNumber->99694<-IncreaseMethodSecurity(net.sourceforge.ganttproject.UIFacadeImpl.MyDialog.Commiter.ProxyOkAction.LafOption.LanguageOption;;[];[getPersistentValue])
+<-endRefactoring marker->
 /*
  * Created on 10.10.2005
  */

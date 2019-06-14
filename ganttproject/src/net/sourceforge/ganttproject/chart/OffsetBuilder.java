@@ -1,3 +1,5 @@
+->RefactoringNumber->99675<-MoveField(net.sourceforge.ganttproject.GanttProjectBase.ViewManagerImpl;net.sourceforge.ganttproject.chart.Factory;[mySelectedView];[])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool. License: GPL2
 Copyright (C) 2010 Dmitry Barashev

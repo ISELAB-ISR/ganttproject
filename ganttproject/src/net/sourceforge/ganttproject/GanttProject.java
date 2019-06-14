@@ -1,3 +1,5 @@
+->RefactoringNumber->99696<-MoveMethod(net.sourceforge.ganttproject.GanttProjectBase;net.sourceforge.ganttproject.GanttProject.TaskManagerConfigImpl.ParserFactoryImpl;[];[getOptions])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool.
 Copyright (C) 2002-2010 Alexandre Thomas, Dmitry Barashev

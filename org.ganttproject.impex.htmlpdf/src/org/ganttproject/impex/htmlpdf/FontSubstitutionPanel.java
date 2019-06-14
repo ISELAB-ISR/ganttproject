@@ -1,3 +1,5 @@
+->RefactoringNumber->99678<-MoveMethod(net.sourceforge.ganttproject.document.DocumentCreator;org.ganttproject.impex.htmlpdf.FontSubstitutionPanel.CellRendererImpl;[];[getDirectoryName])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool.
 Copyright (C) 2009 Dmitry Barashev

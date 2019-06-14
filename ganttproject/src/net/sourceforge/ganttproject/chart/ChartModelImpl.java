@@ -1,3 +1,8 @@
+->RefactoringNumber->99676<-ExtractSubClass(net.sourceforge.ganttproject.chart.ChartModelImpl.NewTaskColorOption;Class_1;[];[calculateRowHeight|createCopy|findTaskBoundaryItem|findTaskProgressItem|getAttributeName|getBoundingRectangle|getTagName|getTaskActivityRectangles|getTaskManager|isExplicitlyHidden|setVisibleTasks])
+->RefactoringNumber->99679<-MoveField(org.ganttproject.impex.htmlpdf.ExporterToPDF.ExportState;net.sourceforge.ganttproject.chart.ChartModelImpl;[resourceChartImageFile];[])
+->RefactoringNumber->99684<-PullUpField(net.sourceforge.ganttproject.chart.ChartModelImpl;net.sourceforge.ganttproject.chart.ChartModelBase;[myVisibleTasks];[])
+->RefactoringNumber->99685<-PullUpMethod(net.sourceforge.ganttproject.chart.ChartModelImpl.NewTaskColorOption;net.sourceforge.ganttproject.gui.options.model.DefaultColorOption;[];[isSelected])
+<-endRefactoring marker->
 /*
  * This code is provided under the terms of GPL version 2.
  * Please see LICENSE file for details

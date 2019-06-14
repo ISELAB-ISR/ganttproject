@@ -1,3 +1,5 @@
+->RefactoringNumber->99685<-PullUpMethod(net.sourceforge.ganttproject.chart.ChartModelImpl.NewTaskColorOption;net.sourceforge.ganttproject.gui.options.model.DefaultColorOption;[];[isSelected])
+<-endRefactoring marker->
 package net.sourceforge.ganttproject.gui.options.model;
 
 import java.awt.Color;

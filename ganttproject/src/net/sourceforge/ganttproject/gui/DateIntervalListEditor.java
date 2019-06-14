@@ -1,3 +1,5 @@
+->RefactoringNumber->99687<-ExtractSuperClass(net.sourceforge.ganttproject.gui.DateIntervalListEditor.DateInterval;Class_8;[end|end|myModelEnd|myVisibleEnd|myVisibleEnd|start|start];[createFromVisibleDates|equals|hashCode])
+<-endRefactoring marker->
 /*
  * Created on 26.11.2005
  *

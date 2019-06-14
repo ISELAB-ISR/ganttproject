@@ -1,3 +1,7 @@
+->RefactoringNumber->99675<-MoveField(net.sourceforge.ganttproject.GanttProjectBase.ViewManagerImpl;net.sourceforge.ganttproject.chart.Factory;[mySelectedView];[])
+->RefactoringNumber->99695<-MoveField(net.sourceforge.ganttproject.GanttProjectBase.ViewManagerImpl.GPViewImpl;net.sourceforge.ganttproject.chart.ChartModelBase;[isVisible];[])
+->RefactoringNumber->99696<-MoveMethod(net.sourceforge.ganttproject.GanttProjectBase;net.sourceforge.ganttproject.GanttProject.TaskManagerConfigImpl.ParserFactoryImpl;[];[getOptions])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool.
 Copyright (C) 2005-2010 Dmitry Barashev

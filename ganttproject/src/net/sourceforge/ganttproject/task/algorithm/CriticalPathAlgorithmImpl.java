@@ -1,3 +1,5 @@
+->RefactoringNumber->99677<-ExtractClass(net.sourceforge.ganttproject.task.algorithm.CriticalPathAlgorithmImpl.Node.Processor;Class_2;[myDeadlineNode|myQueue|myResult|myTask_Node];[enqueueDependees|findLatestFinishTime|findLatestFinishTime|findLatestFinishTime|findLatestFinishTime|findLatestFinishTime0|hasMoreInput|processQueue|run|run])
+<-endRefactoring marker->
 /*
 GanttProject is an opensource project management tool.
 Copyright (C) 2009 Dmitry Barashev

@@ -1,3 +1,6 @@
+->RefactoringNumber->99684<-PullUpField(net.sourceforge.ganttproject.chart.ChartModelImpl;net.sourceforge.ganttproject.chart.ChartModelBase;[myVisibleTasks];[])
+->RefactoringNumber->99695<-MoveField(net.sourceforge.ganttproject.GanttProjectBase.ViewManagerImpl.GPViewImpl;net.sourceforge.ganttproject.chart.ChartModelBase;[isVisible];[])
+<-endRefactoring marker->
 /*
  * This code is provided under the terms of GPL version 2.
  * Please see LICENSE file for details

@@ -1,3 +1,6 @@
+->RefactoringNumber->99679<-MoveField(org.ganttproject.impex.htmlpdf.ExporterToPDF.ExportState;net.sourceforge.ganttproject.chart.ChartModelImpl;[resourceChartImageFile];[])
+->RefactoringNumber->99692<-IncreaseMethodSecurity(org.ganttproject.impex.htmlpdf.ExporterToPDF.ExportState;;[];[getStylesheets])
+<-endRefactoring marker->
 /*
  * Created on 18.09.2005
  */

@@ -1,3 +1,8 @@
+->RefactoringNumber->99680<-ExtractClass(net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData.PointVector;Class_3;[];[reaches])
+->RefactoringNumber->99681<-ExtractClass(net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData.PointVector;Class_4;[];[reaches])
+->RefactoringNumber->99686<-ExtractClass(net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData.PointVector.WestPointVector.EastPointVector;Class_7;[];[getContainerFor])
+->RefactoringNumber->99693<-ExtractSubClass(net.sourceforge.ganttproject.chart.TaskRendererImpl2.DependencyDrawData.PointVector.WestPointVector.EastPointVector;Class_10;[];[calculateRowHeight|getContainerFor|getPrimitive|getRectangleHeight])
+<-endRefactoring marker->
 /* LICENSE: GPL2
 Copyright (C) 2010 Dmitry Barashev
 
